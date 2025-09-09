@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Toycow/M_Toy_Cow.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/AP/PI7BEY6YKM2QBSAPZGPRBF.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Toycow/SM_ToyCow.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/JX/RBDGZVC2QLLGUS8HXD0RG0.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Toycow/T_ToyCow_C.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Toycow/T_ToyCow_N.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Toycow/M_Toy_Cow1.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Toycow/M_Toy_Cow_Inst.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Toycow/M_Toy_Cow_Inst1.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/W6/PBAMX9WIX68SDR0DFLMF95.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/G9/3TFM9HL6IDQCI4PKUJCAM7.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Toycow/M_CowPBR.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GC/E255JD2OPMS05QG251TDKR.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Toycow/T_ToyCow_C_Mat.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3Z/4ZVVH14RZM1158H3PM7RA0.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/BP_Toycow.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WI/G1X5YZ82UO1JBBOL361PXE.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/B7/5IN1MNLU7DNZ6V7QGOVT21.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Maps/TestLevel.umap",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/BP_ColorChangeActor.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/M_Color.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/BP_ColorChangeActorV2.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/M_ColorV2.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/M_ColorV3.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/BP_ColorChangeActorV3.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Toycow/M_Toy_Cow2.uasset"
+			]
+		}
+	]
+}
