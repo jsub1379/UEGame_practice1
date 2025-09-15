@@ -27,9 +27,7 @@
 				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/B7/5IN1MNLU7DNZ6V7QGOVT21.uasset",
 				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Maps/TestLevel.umap",
 				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/BP_ColorChangeActor.uasset",
-				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/M_Color.uasset",
 				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/BP_ColorChangeActorV2.uasset",
-				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/M_ColorV2.uasset",
 				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/BP_ColorChangeActorV3.uasset",
 				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/BP_Teleporter.uasset",
 				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/BP_MovingPlatform.uasset",
@@ -48,6 +46,11 @@
 				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/Actors/M_ColorV2.uasset",
 				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/Character/BP_Character.uasset",
 				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/Character/BP_GameMode.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/Inputs/Actions/IA_Move.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/Inputs/IMC_Character.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/Inputs/Actions/IA_Look.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/M_Color.uasset",
+				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/M_ColorV2.uasset",
 				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Blueprints/M_ColorV3.uasset",
 				"C:/Workspace/UnrealProjects/Blueprints/UEGamePractice/UEGamePracice/Content/Toycow/M_Toy_Cow2.uasset"
 			]
